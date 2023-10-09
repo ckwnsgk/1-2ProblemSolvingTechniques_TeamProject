@@ -1,0 +1,11 @@
+27/2020-08-24/no/Konner French/42/Gachon University/professor
+26/2020-06-30/yes/Sincere Bradley/58/University of Hong Kong/staff
+17/2020-08-14/no/Chunyong Chang/75/Gachon University/student
+1/2020-08-25/yes/Jihu Choi/74/Harvard University/engineer
+3/2020-07-01/no/Chinho Park/53/Peking University/engineer
+30/2020-07-13/yes/Kyungmin Choi/44/Duke University/student
+2/2020-08-22/no/Seungmin Choi/31/Gachon University/staff
+13/2020-06-03/yes/Chinho Cho/68/Gachon University/student
+28/2020-08-27/no/Kwangsu Park/43/University of Pennsylvania/student
+20/2020-07-30/yes/Chinho Kim/52/Gachon University/engineer
+14
